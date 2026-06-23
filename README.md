@@ -250,7 +250,7 @@ This project is proprietary software built for SAFA Formwork & Scaffolding. All 
 This platform — public site + custom admin dashboard + secure backend — was built end-to-end as a freelance/internship project.
 
 **Interested in buying this template, a custom version for your own business, or hiring for similar work?**
-Reach out: **ricardomeme1209@gmail.com**
+Reach out: **sharmaprabin160@gmail.com**
 
 Available for:
 - Selling/licensing this codebase (with or without setup support)
